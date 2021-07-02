@@ -14,7 +14,7 @@
     "react-scripts": "^1.1.5",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://apinanyogaratnam.github.io/my-personal-website",
+  "homepage": "https://apinanyogaratnam.github.io/my-personal-website-v1.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
